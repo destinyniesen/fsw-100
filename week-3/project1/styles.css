@@ -1,0 +1,48 @@
+.headlines{
+  color:blue;
+}  
+
+h2, h3{
+  color: green;
+}
+
+body{
+  background-color: lightcyan;
+}
+
+.headlines, h2, h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.headlines, h2{
+  text-align: center;
+}
+
+p{
+  line-height: 20px;
+}
+
+#ninety{
+  color: lightcoral;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.label{
+  text-transform: uppercase;
+}
+
+img{
+  float: left;
+  padding: 25px 25px 25px 25px;
+}
+
+ol{
+  list-style-type: circle;
+}
