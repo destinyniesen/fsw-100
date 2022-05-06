@@ -1,0 +1,11 @@
+header{
+    color:blue
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
+img{
+    padding: 20px 20px 20px 20px;
+}
